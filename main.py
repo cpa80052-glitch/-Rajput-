@@ -46,7 +46,7 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "8774729055:AAFFK30VCT1bg_gHG-Q98h1K3Pnd
 # Get the MongoDB collection for this bot
 collection = get_collection(BOT_NAME, MONGO_URI)
 # Constants
-OWNER_IDS = [7549194607]  # Replace with the actual owner user IDs
+OWNER_IDS = [6334323103]  # Replace with the actual owner user IDs
 
 cookies_file_path = "cookies.txt"
 # Global variables
